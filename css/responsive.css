@@ -1,0 +1,10 @@
+@media(max-width:768px){
+    .container .popup-img img{
+        width: 90%;
+    }
+
+    .container .popup-img h2{
+        bottom: 250px;
+        left: 32%;
+    }
+}
